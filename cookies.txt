@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.liverpool.ac.uk	TRUE	/	FALSE	1999999999	NSC_WT_MC_xxx.mjw.bd.vl*80	5ccba3d87d43d5f700a96af45c9e777919ecca16aa3a0a088989f436f09b0bb2e1f0e3b5
+
